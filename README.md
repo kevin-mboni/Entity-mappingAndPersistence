@@ -1,3 +1,3 @@
 # Entity-mappingAndPersistence
 
-[Download the PDF](https://github.com/kevin-mboni/Entity-mappingAndPersistence/main/path/to/ERD.pdf)
+[Download the PDF](https://github.com/kevin-mboni/Entity-mappingAndPersistence/main/ERD.pdf)
